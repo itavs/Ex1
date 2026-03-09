@@ -2,7 +2,7 @@
 I2CS_Ex1_proj is an assignment given by the Ariel University. The project deals with polynomials over 2D Arrays.
 ## Description
 This project is designed to work with polynomials expressed as arrays. For example, the array {4.5, -2.0, 1.3} represents the polynomial "1.3x² - 2.0x + 4.5". This module offers multiple capabilities, including evaluating the polynomial at specific values, calculating derivatives, performing addition and multiplication of polynomials, finding polynomial coefficients from 2D points, computing the area between two polynomial curves, and more.
-## Implements & Usage
+## Implement & Usage
 
 ## Task Functions
 * f(double[] polynomial, double x) – Calculates the value of the polynomial at the point x.
